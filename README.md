@@ -30,7 +30,7 @@ Sou versátil e me adapto facilmente a diferentes funções (Programação Web �
 ### 📊 Estatísticas do Github:
 <a href='https://github.com/Maarhs/github-stats-transparent'>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maarhs/README.md=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maarhs/Maarhs=TeX&layout=compact)
 
  
 
