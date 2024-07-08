@@ -15,7 +15,7 @@ Sou versátil e me adapto facilmente a diferentes funções (Programação Web �
 - 👀 Estou interessado na criação de código
 - 🌱 Atualmente estou aprendendo Sobre python
 - 💞️ Procuro colaborar em bahia/região
-- 📫 Como entrar em contato comigo @email: marssouy1@gmail.com
+- 📫 Como entrar em contato comigo @email:marssouy1@gmail.com
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: Sempre fui interessado na criação de código, para apps, games, programas privados
 
@@ -30,11 +30,11 @@ Sou versátil e me adapto facilmente a diferentes funções (Programação Web �
 ### 📊 Estatísticas do Github:
 
 ```text
-TypeScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-HTML                     5 repos             ███████░░░░░░░░░░░░░░░░░░   15.00 % 
-JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+TypeScript               1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+HTML                     3 repos             ███████░░░░░░░░░░░░░░░░░░   15.00 % 
+JavaScript               1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Python                   1 repo              ████████████████████░░░░░   85.00 % 
+Python                   6 repo              ████████████████████░░░░░   85.00 % 
 ```
 </a>
 
