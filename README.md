@@ -4,7 +4,7 @@
 <a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+Sou versátil e me adapto facilmente a diferentes funções (Programação Web 🌐, Programação APPS 📱, Designer nível iniciante 🎨) dependendo do que o projeto exige. Adoro explorar novas pilhas de tecnologia 💻 e aproveitá-las para construir coisas legais 🛠️.  
 <br/>
 <br/>
 
@@ -22,12 +22,13 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ###🔨 Linguagens e ferramentas:
+
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <br>
 
 
 ### 📊 Estatísticas do Github:
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+<a href='https://github.com/Maarhs/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
