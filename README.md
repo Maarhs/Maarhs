@@ -6,7 +6,6 @@
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: Sempre fui interessado na criação de código, para apps, games, programas privados
 
-<!---
 const thai = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
@@ -19,4 +18,3 @@ const thai = {
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
---->
