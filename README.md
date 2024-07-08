@@ -7,6 +7,5 @@
 - ⚡ Curiosidade: Sempre fui interessado na criação de código, para apps, games, programas privados
 
 <!---
-Maarhs/Maarhs é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece em seu perfil do GitHub.
-Você pode clicar no link Visualizar para ver suas alterações.
+
 --->
