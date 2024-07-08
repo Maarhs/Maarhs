@@ -30,8 +30,7 @@ Sou versátil e me adapto facilmente a diferentes funções (Programação Web �
 ### 📊 Estatísticas do Github:
 <a href='https://github.com/Maarhs/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/Maarhs/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Maarhs/github-stats-transparent/output/generated/languages.svg)
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 
 </a>
 
