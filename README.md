@@ -30,7 +30,8 @@ Sou versátil e me adapto facilmente a diferentes funções (Programação Web �
 ### 📊 Estatísticas do Github:
 <a href='https://github.com/Maarhs/github-stats-transparent'>
   
-![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=rusty-sj&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact);&nbsp;
 
 </a>
 
